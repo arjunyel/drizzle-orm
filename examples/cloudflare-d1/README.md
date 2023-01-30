@@ -34,7 +34,7 @@ npm install drizzle-orm
 
 To automatically generate migration .sql files, when src/schema.ts chages
 ```bash
-npm install drizzle-kit
+npm install -D drizzle-kit
 
 ## package.json
 {
